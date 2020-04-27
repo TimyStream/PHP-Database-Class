@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=TimyStream_PHP-Database-Class&metric=alert_status)](https://sonarcloud.io/dashboard?id=TimyStream_PHP-Database-Class)
+
 ## TSDB
 
 This is a Simple but kind of Powerful Database Class for PHP
